@@ -43,11 +43,12 @@
 
 ### 📊 Métricas de Perfil
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Activo-339933?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/github/repo-size/MiguelHerrera-13/MiguelHerrera-13?style=for-the-badge&color=555555" alt="Repo Size" />
-  <img src="https://img.shields.io/github/followers/MiguelHerrera-13?style=for-the-badge&color=007ACC" alt="Followers" />
-</p>
+### 📊 Métricas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiguelHerrera-13&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiguelHerrera-13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
+</div>
 
 ---
 
