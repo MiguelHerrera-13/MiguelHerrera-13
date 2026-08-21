@@ -12,6 +12,7 @@
 - ⚙️ **Enfoque técnico:** Lógica de negocio, diseño de arquitecturas escalables, Programación Orientada a Objetos (OOP) y buenas prácticas.
 - 🗄️ **Bases de datos:** Modelado relacional, SQL, diagramas entidad-relación (ERD), optimización de consultas e integridad de datos.
 - 🎯 **Objetivo actual:** Aplicar mis conocimientos en proyectos desafiantes y continuar profundizando en arquitecturas de backend y microservicios.
+- 🌐 **Integración Full-Stack:** Conocimientos sólidos en maquetación e interactividad web (HTML5, CSS3, JS) para consumir y conectar servicios backend.
 
 ---
 
