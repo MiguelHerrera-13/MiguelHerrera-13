@@ -41,13 +41,16 @@
 
 ---
 
-### 📊 Métricas de Perfil
-
-### 📊 Métricas de GitHub
+### 📊 Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiguelHerrera-13&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiguelHerrera-13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelHerrera-13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelHerrera-13&theme=tokyo-night&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
 ---
